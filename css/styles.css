@@ -94,12 +94,11 @@ body {
   z-index: 3;
 }
 
-/*.ico:after{
+.ico:after {
   animation: explode 4s infinite;
 }
 
-
-.ico2:before{
+/*.ico2:before{
   animation: explodeSmall 3s infinite;
 }
 .ico2:after{
