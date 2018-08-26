@@ -156,19 +156,18 @@ body {
   }
 }
 
-/*@keyframes explodeSmall {
-    from {
-      transform: scale(1);
-      opacity: 1;
-    }
-    to {
-      transform: scale(1.2);
-      opacity: 0;
-    }
+@keyframes explodeSmall {
+  from {
+    transform: scale(1);
+    opacity: 1;
+  }
+  to {
+    transform: scale(1.2);
+    opacity: 0;
+  }
 }
 
-
-@keyframes open {
+/*@keyframes open {
     from {
       transform: scale(1);
     }
