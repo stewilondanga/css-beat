@@ -102,12 +102,11 @@ body {
   animation: explodeSmall 3s infinite;
 }
 
-/*.ico2:after{
+.ico2:after {
   animation: explodeSmall 2s infinite;
 }
 
-
-.endtext{
+/*.endtext{
   opacity:0;
   position: absolute;
   top:-100px;
