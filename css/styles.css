@@ -145,17 +145,18 @@ body {
   font-size: 20px;
 }
 
-/*@keyframes explode {
-    from {
-      transform: scale(1);
-      opacity: 1;
-    }
-    to {
-      transform: scale(1.6);
-      opacity: 0;
-    }
+@keyframes explode {
+  from {
+    transform: scale(1);
+    opacity: 1;
+  }
+  to {
+    transform: scale(1.6);
+    opacity: 0;
+  }
 }
-@keyframes explodeSmall {
+
+/*@keyframes explodeSmall {
     from {
       transform: scale(1);
       opacity: 1;
