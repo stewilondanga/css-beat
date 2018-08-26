@@ -113,12 +113,13 @@ body {
   width: 100%;
 }
 
-/*.open .endtext{
-  top:0;
+.open .endtext {
+  top: 0;
   opacity: 1;
   animation: show 5s;
 }
-.endtext .close{
+
+/*.endtext .close{
   position: absolute;
   top: 0;
   right: 0;
