@@ -86,11 +86,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/*.ico2:before,
-.ico2:after{
+.ico2:before, .ico2:after {
   color: #e91e63;
 }
-.ico:before{
+
+/*.ico:before{
   z-index: 3;
 }
 .ico:after{
