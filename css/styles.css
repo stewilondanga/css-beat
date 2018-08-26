@@ -189,15 +189,15 @@ body {
 
 .containers {
   width: 520px;
-  margin: 20px auto;
+  margin: 2px auto;
 }
 
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
-  text-align: center;
+  text-align: left;
   color: #c0c0c0;
-  padding-top: 550px;
+  padding-top: 350px;
   padding-bottom: 10px;
   width: 375px;
   margin: 0 auto;
@@ -234,7 +234,7 @@ body {
   color: #f00;
 }
 
-/*.cal th:last-child {
+.cal th:last-child {
   color: #04d;
 }
 
@@ -242,4 +242,3 @@ body {
   padding: 0 2px;
   line-height: 100%;
 }
-*/
