@@ -167,16 +167,16 @@ body {
   }
 }
 
-/*@keyframes open {
-    from {
-      transform: scale(1);
-    }
-    to {
-      transform: scale(10);
-    }
+@keyframes open {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(10);
+  }
 }
 
-@keyframes show {
+/*@keyframes show {
     from {
       opacity: 0;
       top: -100px;
