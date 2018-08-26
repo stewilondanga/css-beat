@@ -22,16 +22,17 @@ body {
   height: 1.5em;
 }
 
-/*.bgoverlay{
-  background: rgb(103,58,183);
-  background: rgba(103,58,183,0.7);
+.bgoverlay {
+  background: rgb(103, 58, 183);
+  background: rgba(103, 58, 183, 0.7);
   position: absolute;
-  top:0;
-  left:0;
-  right:0;
-  bottom:0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
-.container{
+
+/*.container{
   position: relative;
   margin: 120px auto 0 auto;
   width: 320px;
