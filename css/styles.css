@@ -119,14 +119,15 @@ body {
   animation: show 5s;
 }
 
-/*.endtext .close{
+.endtext .close {
   position: absolute;
   top: 0;
   right: 0;
   cursor: pointer;
-  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
 }
-.endtext h1,
+
+/*.endtext h1,
 .endtext h2,
 .endtext h3{
   text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
