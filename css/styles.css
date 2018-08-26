@@ -90,10 +90,11 @@ body {
   color: #e91e63;
 }
 
-/*.ico:before{
+.ico:before {
   z-index: 3;
 }
-.ico:after{
+
+/*.ico:after{
   animation: explode 4s infinite;
 }
 
