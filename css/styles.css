@@ -38,12 +38,13 @@ body {
   width: 320px;
 }
 
-/*.ico{
+.ico {
   display: block;
   width: 320px;
   height: 320px;
 }
-.open .ico{
+
+/*.open .ico{
   animation: open 4s;
   transform: scale(10);
 }
