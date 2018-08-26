@@ -106,13 +106,14 @@ body {
   animation: explodeSmall 2s infinite;
 }
 
-/*.endtext{
-  opacity:0;
+.endtext {
+  opacity: 0;
   position: absolute;
-  top:-100px;
-  width:100%;
+  top: -100px;
+  width: 100%;
 }
-.open .endtext{
+
+/*.open .endtext{
   top:0;
   opacity: 1;
   animation: show 5s;
