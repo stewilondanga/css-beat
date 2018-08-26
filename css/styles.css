@@ -176,18 +176,18 @@ body {
   }
 }
 
-/*@keyframes show {
-    from {
-      opacity: 0;
-      top: -100px;
-    }
-    to {
-      opacity: 1;
-      top:0;
-    }
+@keyframes show {
+  from {
+    opacity: 0;
+    top: -100px;
+  }
+  to {
+    opacity: 1;
+    top: 0;
+  }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
