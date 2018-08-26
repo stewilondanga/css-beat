@@ -44,11 +44,12 @@ body {
   height: 320px;
 }
 
-/*.open .ico{
+.open .ico {
   animation: open 4s;
   transform: scale(10);
 }
-.ico .title{
+
+/*.ico .title{
   position: absolute;
   top: 50%;
   left: 50%;
