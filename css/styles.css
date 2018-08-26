@@ -69,15 +69,13 @@ body {
   top: -100px;
 }
 
-/*.ico:before,
-.ico:after,
-.ico2:before,
-.ico2:after{
+.ico:before, .ico:after, .ico2:before, .ico2:after {
   position: absolute;
-  top:0;
-  left:0;
+  top: 0;
+  left: 0;
 }
-.ico:before,
+
+/*.ico:before,
 .ico:after,
 .ico2:before,
 .ico2:after{
