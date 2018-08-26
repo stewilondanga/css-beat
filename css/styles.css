@@ -98,10 +98,11 @@ body {
   animation: explode 4s infinite;
 }
 
-/*.ico2:before{
+.ico2:before {
   animation: explodeSmall 3s infinite;
 }
-.ico2:after{
+
+/*.ico2:after{
   animation: explodeSmall 2s infinite;
 }
 
